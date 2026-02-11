@@ -1,7 +1,1 @@
-Pedagogické portfolio <br>
-Magisterské studium <br>
-Bc. Lucie Bryndová (D41758) <br>
-Katedra technické a informační výchovy <br>
-Pedagogická fakulta, UPOL
-
-__Zde budou vaše vlastní údaje__
+Tato část portfolia slouží k prezentaci relevantních metodických a didaktických souborů, jako jsou výukové materiály, prezentace, plány hodin, výukové aplikace, odkazy na online testy, které jste vytvořili, pracovní listy a další.
